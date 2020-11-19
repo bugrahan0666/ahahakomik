@@ -1,0 +1,19 @@
+{
+  "name": "xuply-v12",
+  "version": "0.0.1",
+  "description": "Xuply ~ Discord V12 Boş Altyapı",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "BBQ#0001",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.4.1",
+    "fs": "0.0.1-security",
+    "google-tts-api": "^0.0.5",
+    "opusscript": "^0.0.7",
+    "node-opus": "^0.3.3"
+  }
+}
